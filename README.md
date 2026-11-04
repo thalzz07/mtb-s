@@ -1,2 +1,0 @@
-# mtb-s
-loja online
